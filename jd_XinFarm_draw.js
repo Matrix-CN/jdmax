@@ -1,7 +1,7 @@
 /*
 东东农场幸运抽奖
 
-cron:1 3 * * *
+cron:1 1 1 1 * jd_XinFarm_draw.js
 
 */
 
